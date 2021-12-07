@@ -1,4 +1,4 @@
-%% part one almost finished
+%% Finished
 clear all
 close all
 data = importdata("day_6.txt");
